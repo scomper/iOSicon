@@ -6,6 +6,8 @@ iOS 14 上利用捷径可以自定义 App 的图标。
 
 使用方法可以阅读[「iOS 14 上替换应用图标」](https://scomper.me/ios/2020-10-17)
 
+![](https://github.com/scomper/iOSicon/blob/master/缩略图预览.png)
+
 支持并赞赏。 
 
 <img width=200 height=252 src="https://scomper.me/_image/QRPayment-weixin.png" /><img width=200 height=252 src="https://scomper.me/_image/QRPayment-Alipay.png" />
