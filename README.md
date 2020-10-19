@@ -6,7 +6,11 @@ iOS 14 上利用捷径可以自定义 App 的图标。
 
 使用方法可以阅读[「iOS 14 上替换应用图标」](https://scomper.me/ios/2020-10-17)
 
-![](https://github.com/scomper/iOSicon/blob/master/缩略图预览.png?raw=true)
+新增了 140 个三种颜色（黑色、蓝色、白色）的套图，有需要的可以微信联系 @scomper 打赏 ¥100 留邮箱发送 zip 压缩包 png 文件。
+
+![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-black.png?raw=true)
+![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-blue.png?raw=true)
+![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-white.png?raw=true)
 
 支持并赞赏。 
 
