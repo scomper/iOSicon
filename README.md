@@ -9,8 +9,8 @@ iOS 14 上利用捷径可以自定义 App 的图标。
 新增了 140 个三种颜色（黑色、灰色、蓝色）的套图，有需要的可以微信联系 @scomper 打赏 ¥100 留邮箱发送 zip 压缩包 png 文件。
 体验版：https://github.com/scomper/iOSicon/raw/master/140icon/140金色.zip
 
-![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-black.png?raw=true)
 ![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-gray.png?raw=true)
+![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-black.png?raw=true)
 ![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-blue.png?raw=true)
 
 支持并赞赏。 
