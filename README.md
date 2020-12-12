@@ -12,8 +12,6 @@ iOS 14 上利用捷径可以自定义 App 的图标。
 ![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-black.png?raw=true)
 ![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-gray.png?raw=true)
 ![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-blue.png?raw=true)
-![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-white.png?raw=true)
-![](https://github.com/scomper/iOSicon/blob/master/140icon/iOSicon-white-gold.png?raw=true)
 
 支持并赞赏。 
 
